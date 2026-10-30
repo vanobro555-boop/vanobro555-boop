@@ -28,7 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanobro555-boop&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
-### 💡 Немного атмосферы:
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="500" alt="GitHub Snake"/>
 </p>
