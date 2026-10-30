@@ -19,8 +19,13 @@
 
 ### 📊 Моя статистика на GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanobro555-boop&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=vanobro555-boop&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vanobro555-boop&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanobro555-boop&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+### 📈 Дополнительная статистика:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanobro555-boop&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
 ### 💡 Немного атмосферы:
