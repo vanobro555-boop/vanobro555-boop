@@ -19,13 +19,8 @@
 
 ### 📊 Моя статистика на GitHub:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanobro555-boop&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanobro555-boop&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-### 📈 Дополнительная статистика:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanobro555-boop&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanobro555-boop&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanobro555-boop&theme=github_dark" alt="Top Languages" />
 </p>
 
 <p align="center">
